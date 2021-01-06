@@ -1,4 +1,4 @@
-# ordering_app
+# Flutter - UI Food Ordering
 
 A new Flutter project.
 
