@@ -1,16 +1,15 @@
-# Flutter - UI Food Ordering
+# Food Ordering UI
 
-A new Flutter project.
+<ins>Food Ordering UI with Flutter Framework</ins>
 
-## Getting Started
+![alt text](https://github.com/carminetotera/Images/blob/master/food-ordering-app-ui?raw=true)
 
-This project is a starting point for a Flutter application.
+Developed by Carmine Totera
 
-A few resources to get you started if this is your first Flutter project:
+Designed by Ghulam Rasool
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
+Link Dribbble - Design Project: https://dribbble.com/shots/14132700-Food-Mobile-App-Design
+---
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
