@@ -2,7 +2,7 @@
 
 <ins>Food Ordering UI with Flutter Framework</ins>
 
-![alt text](https://github.com/carminetotera/Images/blob/master/food-ordering-app-ui?raw=true)
+![alt text](https://github.com/carminetotera/Images/blob/master/food-ordering-app-ui.png?raw=true)
 
 Developed by Carmine Totera
 
