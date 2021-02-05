@@ -1,6 +1,6 @@
 # Food Ordering UI
 
-<ins>Food Ordering UI with Flutter Framework</ins>
+<ins>Food Ordering UI Made with Flutter</ins>
 
 ![alt text](https://github.com/carminetotera/Images/blob/master/food-ordering-app-ui.png?raw=true)
 
